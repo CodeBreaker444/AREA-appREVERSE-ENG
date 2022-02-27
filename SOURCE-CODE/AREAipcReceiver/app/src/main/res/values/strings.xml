@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AREAipcReceiver</string>
+    <string name="future"><u><b>Future Update!</b></u>\nHere target apk strings are parsed. And can be shown if any changes to strings have took place.As this receiver uses interface for broadcastListener it is updated in real time.\n\n And the whole data is stored in sharedPreferences persistence storage.The lifecycle depends on the app presence inside the target device.</string>
+</resources>

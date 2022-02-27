@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AREAipc</string>
+    <string name="send_data">Send Data</string>
+</resources>
